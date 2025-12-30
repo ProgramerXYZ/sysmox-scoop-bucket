@@ -1,5 +1,5 @@
 {
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Sysmox is a lightweight system monitoring CLI tool for Windows",
   "homepage": "https://github.com/ProgramerXYZ/Sysmox",
   "license": "MIT",
@@ -8,4 +8,5 @@
   "extract_dir": "sysmox",
   "bin": "sysmox.exe"
 }
+
 

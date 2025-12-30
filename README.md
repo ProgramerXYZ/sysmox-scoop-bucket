@@ -1,1 +1,0 @@
-# sysmox-scoop-bucket
